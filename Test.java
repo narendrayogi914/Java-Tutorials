@@ -11,6 +11,7 @@ class Test{
         System.out.println(obj.a);
         System.out.println(onj2.name);
         System.out.println(onj2.a);
+        System.out.println(num);
 
     }
 }
