@@ -1,0 +1,4 @@
+Class - pascal Case 
+Variable - first world letter small second word first should be in the capital word 
+method = method name shuold be small letter only 
+but if any ethod two words then it followed by camel case 
