@@ -15,7 +15,12 @@ public class Array {
         for(int i=0;i<4;i++){
             System.out.print(names[i]+ " ");
         }
-
+        int nums[]={5,3,7,6};
+        System.out.println(nums[nums.length-1]);  // it will print the
+        System.out.println("Bye");
+        for(int  x : nums){
+            System.out.println(x);
+        }                // this is called as enhanced loop
 
      }
     
